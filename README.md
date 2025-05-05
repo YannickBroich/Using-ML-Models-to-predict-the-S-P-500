@@ -46,4 +46,15 @@ The following models were trained and evaluated:
 - **LSTM (binary classification)**
 
 
+###  Requirements:
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+arch
+tensorflow
+tqdm
+
 
