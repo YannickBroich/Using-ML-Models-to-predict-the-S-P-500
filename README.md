@@ -47,14 +47,14 @@ The following models were trained and evaluated:
 
 
 ###  Requirements:
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-statsmodels
-arch
-tensorflow
-tqdm
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- statsmodels
+- arch
+- tensorflow
+- tqdm
 
 
